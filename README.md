@@ -1,6 +1,6 @@
 <h1 align="center"><b>Social Links</b></h1>
 
-<p align="center">This is a <b>useful tool</b> to share your <b>Social Medias</b></p>
+<p align="center">This is a <b>useful tool</b> to share your <b>Social Medias</b> made 100% by me</p>
 
 <p align="center">
   <a href="#features">Features</a> •
