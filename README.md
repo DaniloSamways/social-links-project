@@ -31,6 +31,6 @@ This project was built with the following tools:
 
 ### Author
 
-<img alt="Anna Claudia" title="Anna Claudia" src="https://github.com/DaniloSamways.png" height="100" width="100" border-radius="100"/>
+<img alt="Danilo Samways" title="Danilo Samways" src="https://github.com/DaniloSamways.png" height="100" width="100" border-radius="100"/>
 
 Made with 💜 by Danilo Samways
