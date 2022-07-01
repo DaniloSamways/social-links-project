@@ -1,6 +1,6 @@
 <h1 align="center"><b>Social Links</b></h1>
 
-<center><p>This is a <b>useful tool</b> to share your <b>Social Medias</b></p></center>
+<p align="center">This is a <b>useful tool</b> to share your <b>Social Medias</b></p>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -8,13 +8,15 @@
   <a href="#author">Author</a>
 </p>
 
-![2022-07-01_20-04-52_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/55723423/176976484-341de21e-747b-478e-bfc4-9d69e9dc48fe.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55723423/176976484-341de21e-747b-478e-bfc4-9d69e9dc48fe.gif">
+</p>
+  
 ---
 
 ### Features
 
-- [x] Hover color
+- [x] Hover color / animations
 
 ### Technologies
 
